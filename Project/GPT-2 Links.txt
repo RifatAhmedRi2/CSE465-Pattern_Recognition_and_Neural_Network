@@ -1,0 +1,5 @@
+~~~~~~~~~~~~~~~~~~~~~   GPT-2   ~~~~~~~~~~~~~~~~~~~~~
+
+https://openai.com/research/better-language-models
+https://huggingface.co/gpt2
+https://github.com/openai/gpt-2/blob/master/model_card.md

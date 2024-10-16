@@ -1,0 +1,9 @@
+Bins definition => how to place plot continuous variables in x-range, eg instead of plotting frequency for how many times 40 appears, plot range for how many times 40-50 appears. Essentially, "class width" in Statistics.
+
+1. Bins used for L1's are bins = 80
+2. Bins used for L2's are bins = 400
+3. Greedy method, 80+400/2=240 bins in FL
+
+Why not same number of bins in L1 and L2? because L1 can't visualize with 400 bins.
+
+How did I choose bin values? I chose through trial and error method of what produces closest possible 'smooth curve', yet not a curve with discrete breaks in order to view outliers properly.
